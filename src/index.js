@@ -1,3 +1,6 @@
+// video Explicativo
+// https://www.youtube.com/watch?v=sA3t4d1v7OI
+
 import app from "./app";
 import "@babel/polyfill";
 
